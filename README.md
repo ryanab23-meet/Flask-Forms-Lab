@@ -1,31 +1,16 @@
-# Using Forms with Flask - Facebook Lab
-
-## Objective: 
-In this lab, you will learn about taking and processing information, given by a user via HTML forms!
 
 
 
 
-
-
-
-
-
-> Before we start, make sure to fork the repo and clone the code.
-
-
-## Instructions:
-
-As you can see, in the code we provided, you have a ready `app.py` (Flask app), `login.html`, `home.html` and `home.html files, these will be the files you will edit this lab. Explore the project files to have a better understanding of what's going on, even try to **run** the app!  
-It should look something like this:  
+ 
 <img src="https://github.com/meet-projects/Y2-Seminar2020-Labs/blob/master/Day%202%2C%20Session%202%2C%20Flask%20Forms/facebook-login.png" width=450>
 
   
 First things first, in the top of `app.py`, you have some variables configured. Feel free to edit them according to your own preferences. The variables looks something like this:
 ```python
-username = "llo2ay"
-password = "123"
-facebook_friends=["Loai","Yonathan","Adan", "George", "Fouad", "Celina"]
+username = "ryanabusereya"
+password = "111"
+facebook_friends=["Tamari","Yasmeen","Mia", "George", "Fouad", "Jana"]
 ```
   
 
